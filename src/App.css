@@ -1,0 +1,55 @@
+body{
+  background-image: url(https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fenglishforall.id%2Fblogs%2Fwp-content%2Fuploads%2F2016%2F07%2Fbackground-150p-01.jpg%3Ffit%3D1024%252C646%26ssl%3D1&f=1);
+  background-size: default;
+  background-attachment: fixed;
+}
+
+.logo{
+  width: 20%;
+  height: 60px;
+  margin-left: 2%;
+  color: #fff;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-weight: bold;
+  font-size: 32px;
+  float: left;
+}
+
+.header{
+  width: 100%;
+  height: 60px;
+  background-color: rgba(0,0,0,0.6);
+  position: fixed;
+  z-index: 0;
+}
+
+.nav{
+width: 50%;
+height: 30px;
+margin: auto;
+align-items: center;
+align-content: center;
+justify-content: center;
+display: flex;
+float: left;
+position: relative;
+top: 25%;
+
+}
+
+.nav_link{
+  margin-left: 15%;
+  float: left;
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav_link:hover{
+  color: #ccc;
+}
+
+
+
